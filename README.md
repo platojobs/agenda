@@ -5,6 +5,8 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 | test | https://github.com/platojobs/agenda/issues | 20 岁的少年 |
+## 置顶文章
+- [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 最近更新
 - [学习目录](https://github.com/platojobs/agenda/issues/8)--2022-07-15
 - [友情链接](https://github.com/platojobs/agenda/issues/7)--2022-07-15
@@ -17,6 +19,8 @@ My personal blog using issues and GitHub Actions
 - [3.凭什么你喜欢我，我就一定要回应你？](https://github.com/platojobs/agenda/issues/3)--2022-07-14
 - [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 - [1.github博客](https://github.com/platojobs/agenda/issues/1)--2022-07-14
+## TOP
+- [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## TODO
 TODO list from [学习目录](https://github.com/platojobs/agenda/issues/8) all done
 
