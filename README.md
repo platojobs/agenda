@@ -1,18 +1,18 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions
-[RSS Feed](https://raw.githubusercontent.com/platojobs/blogs/master/feed.xml)
+[RSS Feed](https://raw.githubusercontent.com/platojobs/agenda/master/feed.xml)
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
-- [友情链接](https://github.com/platojobs/blogs/issues/6)--2022-07-15
-- [5.先是工作被开然后恋爱告吹](https://github.com/platojobs/blogs/issues/5)--2022-07-15
-- [4.请认真回应那些废话吧](https://github.com/platojobs/blogs/issues/4)--2022-07-14
-- [3.凭什么你喜欢我，我就一定要回应你？](https://github.com/platojobs/blogs/issues/3)--2022-07-14
-- [2.我看到这样一个故事](https://github.com/platojobs/blogs/issues/2)--2022-07-14
+- [友情链接](https://github.com/platojobs/agenda/issues/6)--2022-07-15
+- [5.先是工作被开然后恋爱告吹](https://github.com/platojobs/agenda/issues/5)--2022-07-15
+- [4.请认真回应那些废话吧](https://github.com/platojobs/agenda/issues/4)--2022-07-14
+- [3.凭什么你喜欢我，我就一定要回应你？](https://github.com/platojobs/agenda/issues/3)--2022-07-14
+- [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 2022年7月
-- [5.先是工作被开然后恋爱告吹](https://github.com/platojobs/blogs/issues/5)--2022-07-15
-- [4.请认真回应那些废话吧](https://github.com/platojobs/blogs/issues/4)--2022-07-14
-- [3.凭什么你喜欢我，我就一定要回应你？](https://github.com/platojobs/blogs/issues/3)--2022-07-14
-- [2.我看到这样一个故事](https://github.com/platojobs/blogs/issues/2)--2022-07-14
-- [1.github博客](https://github.com/platojobs/blogs/issues/1)--2022-07-14
+- [5.先是工作被开然后恋爱告吹](https://github.com/platojobs/agenda/issues/5)--2022-07-15
+- [4.请认真回应那些废话吧](https://github.com/platojobs/agenda/issues/4)--2022-07-14
+- [3.凭什么你喜欢我，我就一定要回应你？](https://github.com/platojobs/agenda/issues/3)--2022-07-14
+- [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
+- [1.github博客](https://github.com/platojobs/agenda/issues/1)--2022-07-14
