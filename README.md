@@ -12,11 +12,11 @@ My personal blog using issues and GitHub Actions
 - [6.现在恋爱真的太难了](https://github.com/platojobs/agenda/issues/9)--2022-07-15
 - [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 最近更新
+- [好的爱人](https://github.com/platojobs/agenda/issues/20)--2022-07-17
 - [8.我身边越来越多的人都是单身的状态。](https://github.com/platojobs/agenda/issues/19)--2022-07-16
 - [7.好的爱情](https://github.com/platojobs/agenda/issues/18)--2022-07-15
 - [《许你星河千里》书阅](https://github.com/platojobs/agenda/issues/17)--2022-07-15
 - [《凶猛哀歌》](https://github.com/platojobs/agenda/issues/16)--2022-07-15
-- [不成熟的爱](https://github.com/platojobs/agenda/issues/15)--2022-07-15
 ## 2022年7月
 - [8.我身边越来越多的人都是单身的状态。](https://github.com/platojobs/agenda/issues/19)--2022-07-16
 - [7.好的爱情](https://github.com/platojobs/agenda/issues/18)--2022-07-15
@@ -37,11 +37,16 @@ My personal blog using issues and GitHub Actions
 - [6.现在恋爱真的太难了](https://github.com/platojobs/agenda/issues/9)--2022-07-15
 - [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 文摘笔记
+- [好的爱人](https://github.com/platojobs/agenda/issues/20)--2022-07-17
 - [《许你星河千里》书阅](https://github.com/platojobs/agenda/issues/17)--2022-07-15
 - [《凶猛哀歌》](https://github.com/platojobs/agenda/issues/16)--2022-07-15
 - [不成熟的爱](https://github.com/platojobs/agenda/issues/15)--2022-07-15
 - [《人生海海》书阅](https://github.com/platojobs/agenda/issues/11)--2022-07-15
+<details><summary>显示更多</summary>
+
 - [我想起以前和一个姑娘一起吃饭](https://github.com/platojobs/agenda/issues/10)--2022-07-15
+</details>
+
 ## 日常琐事
 - [可我只是在追剧啊啊啊](https://github.com/platojobs/agenda/issues/14)--2022-07-15
 - [我不能接受自己不好的这一面](https://github.com/platojobs/agenda/issues/13)--2022-07-15
