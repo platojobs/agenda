@@ -15,11 +15,11 @@ My personal blog using issues and GitHub Actions
 - [6.现在恋爱真的太难了](https://github.com/platojobs/agenda/issues/9)--2022-07-15
 - [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 最近更新
+- [《孤独的力量》书阅](https://github.com/platojobs/agenda/issues/27)--2022-07-19
 - [摆烂](https://github.com/platojobs/agenda/issues/26)--2022-07-19
 - [随手记](https://github.com/platojobs/agenda/issues/25)--2022-07-19
 - [10.我一直都觉得](https://github.com/platojobs/agenda/issues/24)--2022-07-19
 - [吐槽](https://github.com/platojobs/agenda/issues/23)--2022-07-18
-- [你想什么呢，不喜欢小孩？](https://github.com/platojobs/agenda/issues/22)--2022-07-18
 ## 2022年7月
 - [10.我一直都觉得](https://github.com/platojobs/agenda/issues/24)--2022-07-19
 - [9.灵魂伴侣](https://github.com/platojobs/agenda/issues/21)--2022-07-17
@@ -51,13 +51,14 @@ My personal blog using issues and GitHub Actions
 ## 技术碎片
 - [随手记](https://github.com/platojobs/agenda/issues/25)--2022-07-19
 ## 文摘笔记
+- [《孤独的力量》书阅](https://github.com/platojobs/agenda/issues/27)--2022-07-19
 - [你想什么呢，不喜欢小孩？](https://github.com/platojobs/agenda/issues/22)--2022-07-18
 - [好的爱人](https://github.com/platojobs/agenda/issues/20)--2022-07-17
 - [《许你星河千里》书阅](https://github.com/platojobs/agenda/issues/17)--2022-07-15
 - [《凶猛哀歌》](https://github.com/platojobs/agenda/issues/16)--2022-07-15
-- [不成熟的爱](https://github.com/platojobs/agenda/issues/15)--2022-07-15
 <details><summary>显示更多</summary>
 
+- [不成熟的爱](https://github.com/platojobs/agenda/issues/15)--2022-07-15
 - [《人生海海》书阅](https://github.com/platojobs/agenda/issues/11)--2022-07-15
 - [我想起以前和一个姑娘一起吃饭](https://github.com/platojobs/agenda/issues/10)--2022-07-15
 </details>
