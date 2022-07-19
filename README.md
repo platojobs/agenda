@@ -15,11 +15,11 @@ My personal blog using issues and GitHub Actions
 - [6.现在恋爱真的太难了](https://github.com/platojobs/agenda/issues/9)--2022-07-15
 - [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 最近更新
+- [摆烂](https://github.com/platojobs/agenda/issues/26)--2022-07-19
 - [随手记](https://github.com/platojobs/agenda/issues/25)--2022-07-19
 - [10.我一直都觉得](https://github.com/platojobs/agenda/issues/24)--2022-07-19
 - [吐槽](https://github.com/platojobs/agenda/issues/23)--2022-07-18
 - [你想什么呢，不喜欢小孩？](https://github.com/platojobs/agenda/issues/22)--2022-07-18
-- [9.灵魂伴侣](https://github.com/platojobs/agenda/issues/21)--2022-07-17
 ## 2022年7月
 - [10.我一直都觉得](https://github.com/platojobs/agenda/issues/24)--2022-07-19
 - [9.灵魂伴侣](https://github.com/platojobs/agenda/issues/21)--2022-07-17
@@ -63,6 +63,7 @@ My personal blog using issues and GitHub Actions
 </details>
 
 ## 日常琐事
+- [摆烂](https://github.com/platojobs/agenda/issues/26)--2022-07-19
 - [吐槽](https://github.com/platojobs/agenda/issues/23)--2022-07-18
 - [可我只是在追剧啊啊啊](https://github.com/platojobs/agenda/issues/14)--2022-07-15
 - [我不能接受自己不好的这一面](https://github.com/platojobs/agenda/issues/13)--2022-07-15
