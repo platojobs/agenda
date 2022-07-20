@@ -10,7 +10,7 @@ from lxml.etree import CDATA
 
 MD_HEAD = """
 ## GitblogMy personal blog using issues and GitHub Actions
-![](https://github.com/platojobs/platojobs/blob/main/assets/home.gif")
+![](https://github.com/platojobs/platojobs/blob/main/assets/home.gif)
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
