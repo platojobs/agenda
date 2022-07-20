@@ -8,8 +8,9 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """## Gitblog
-My personal blog using issues and GitHub Actions
+MD_HEAD = """
+## GitblogMy personal blog using issues and GitHub Actions
+![](https://github.com/platojobs/platojobs/blob/main/assets/home.gif")
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
