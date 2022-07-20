@@ -1,5 +1,6 @@
-## Gitblog
-My personal blog using issues and GitHub Actions
+
+## GitblogMy personal blog using issues and GitHub Actions
+![](https://github.com/platojobs/platojobs/blob/main/assets/home.gif")
 [RSS Feed](https://raw.githubusercontent.com/platojobs/agenda/master/feed.xml)
 ## 友情链接
 | Name | Link | Desc | 
