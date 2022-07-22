@@ -18,7 +18,7 @@
 - [6.现在恋爱真的太难了](https://github.com/platojobs/agenda/issues/9)--2022-07-15
 - [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 最近更新
-- [《姜永安的爱情课》书阅](https://github.com/platojobs/agenda/issues/32)--2022-07-22
+- [《梁永安的爱情课》书阅](https://github.com/platojobs/agenda/issues/32)--2022-07-22
 - [早安](https://github.com/platojobs/agenda/issues/31)--2022-07-22
 - [13.赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/agenda/issues/30)--2022-07-21
 - [12.我现在喜欢慢一点的关系](https://github.com/platojobs/agenda/issues/29)--2022-07-20
@@ -57,7 +57,7 @@
 ## 技术碎片
 - [随手记](https://github.com/platojobs/agenda/issues/25)--2022-07-19
 ## 文摘笔记
-- [《姜永安的爱情课》书阅](https://github.com/platojobs/agenda/issues/32)--2022-07-22
+- [《梁永安的爱情课》书阅](https://github.com/platojobs/agenda/issues/32)--2022-07-22
 - [《孤独的力量》书阅](https://github.com/platojobs/agenda/issues/27)--2022-07-19
 - [好的爱人](https://github.com/platojobs/agenda/issues/20)--2022-07-17
 - [《许你星河千里》书阅](https://github.com/platojobs/agenda/issues/17)--2022-07-15
