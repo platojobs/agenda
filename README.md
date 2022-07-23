@@ -18,11 +18,11 @@
 - [6.现在恋爱真的太难了](https://github.com/platojobs/agenda/issues/9)--2022-07-15
 - [2.我看到这样一个故事](https://github.com/platojobs/agenda/issues/2)--2022-07-14
 ## 最近更新
+- [Text](https://github.com/platojobs/agenda/issues/34)--2022-07-22
+- [1](https://github.com/platojobs/agenda/issues/33)--2022-07-22
 - [《梁永安的爱情课》书阅](https://github.com/platojobs/agenda/issues/32)--2022-07-22
 - [早安](https://github.com/platojobs/agenda/issues/31)--2022-07-22
 - [13.赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/agenda/issues/30)--2022-07-21
-- [12.我现在喜欢慢一点的关系](https://github.com/platojobs/agenda/issues/29)--2022-07-20
-- [11.我觉得仪式感真的很重要](https://github.com/platojobs/agenda/issues/28)--2022-07-20
 ## 2022年7月
 - [13.赞美真的是这个世界上最温柔的事情](https://github.com/platojobs/agenda/issues/30)--2022-07-21
 - [12.我现在喜欢慢一点的关系](https://github.com/platojobs/agenda/issues/29)--2022-07-20
